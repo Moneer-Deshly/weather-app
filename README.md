@@ -1,6 +1,4 @@
-# React + Vite
-
-A simple weather app.
+# A simple weather app.
 
 How to use:
 Input city name and click search
